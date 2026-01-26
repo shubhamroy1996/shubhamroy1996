@@ -1,24 +1,132 @@
-# 💫 About Me:
-Frontend Engineer | React.js | Performance & UI Architecture<br><br>Frontend Engineer with 5+ years of experience building scalable, <br>high-performance web applications using React.js. Specialized <br>in Redux-based state management, reusable component architecture,<br> and efficient REST API integration with Tanstack—driving up to 30% <br>improvements in data performance. <br>Experienced in collaborating with teams, improving frontend workflows,<br> and delivering clean, maintainable UI solutions aligned with business <br>goals.
+# Hey, I'm Shubham Kumar 👋
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Welcome Banner" width="100%" style="max-width: 800px; border-radius: 12px;">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-kumar-dev-js/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubham.roy1996.sr@gmail.com) 
+  <br/>
+  <br/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhamroy1996&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shubhamroy1996&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamroy1996&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/shubhamroy1996/Portfolio)
+[![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.roy1996.sr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/shubham-kumar-dev-js/)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shubhamroy1996&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shubhamroy1996&limit=5&theme=default&combine_all_yearly_contributions=true)
+## Who Am I?
+
+I’m a developer who genuinely enjoys turning a rough idea into a tool people can actually use. For me, coding isn't just about making things work—it's about making things last.
+
+**What I do:** I build web applications from the ground up, focusing on clean UI, smooth API integrations, and the "big picture" of how an app functions.
+
+**My Philosophy:** I care about the details. If it doesn’t feel fast, look clean, or stay maintainable six months from now, it isn't finished.
+
+**Currently Leveling Up:** Moving beyond the frontend to master the full stack—getting comfortable with database architecture and secure auth flows alongside my React work.
+
+The web is always evolving, and I’m right there with it—usually experimenting with new tools or breaking things to learn how they work.
+
+<br/>
+
+## What I Work With
+<div align="center">
+
+### ⚡ Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=7aa2f7)
+![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=7dcfff)
+![Next.js](https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=c0caf5)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=7dcfff)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-1a1b27?style=for-the-badge&logo=shadcnui&logoColor=c0caf5)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-1a1b27?style=for-the-badge&logo=framer&logoColor=bb9af7)
+![Redux](https://img.shields.io/badge/Redux-1a1b27?style=for-the-badge&logo=redux&logoColor=bb9af7)
+
+### 📦 State & Data Fetching
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-1a1b27?style=for-the-badge&logo=reactquery&logoColor=f7768e)
+![tRPC](https://img.shields.io/badge/tRPC-1a1b27?style=for-the-badge&logo=trpc&logoColor=7dcfff)
+![graphQL](https://img.shields.io/badge/graphQL-1a1b27?style=for-the-badge&logoColor=9ece6a)
+![REST API](https://img.shields.io/badge/REST_API-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ece6a)
+
+### 🧩 Forms & Validation
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-1a1b27?style=for-the-badge&logo=reacthookform&logoColor=f7768e)
+
+### 🗄️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ece6a)
+![Supabase](https://img.shields.io/badge/Supabase-1a1b27?style=for-the-badge&logo=supabase&logoColor=9ece6a)
+
+### 🔐 Authentication & Security
+![Auth.js](https://img.shields.io/badge/Auth.js-1a1b27?style=for-the-badge&logo=auth0&logoColor=bb9af7)
+![Better Auth](https://img.shields.io/badge/Better_Auth-1a1b27?style=for-the-badge&logo=shield&logoColor=9ece6a)
+
+### 🤖 AI & LLMs
+![AI SDK](https://img.shields.io/badge/AI_SDK-1a1b27?style=for-the-badge&logo=vercel&logoColor=c0caf5)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-1a1b27?style=for-the-badge&logo=openai&logoColor=9ece6a)
+
+### 🧰 Tools & Platforms
+![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=e0af68)
+![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=c0caf5)
+![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e)
+![Figma](https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=bb9af7)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7)
+
+</div>
+<br/>
+
+## GitHub Stats
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamroy1996&theme=tokyonight" alt="Contribution Graph" width="100%">
+</div>
+
+<br/>
+
+## What I'm Up To These Days
+Right now, I'm diving deeper into a few things:
+- **System design patterns** - figuring out how to build apps that scale without falling apart
+- **Performance optimization** - making things fast isn't just nice, it actually matters for users
+- **Better testing practices** - because I've been burned enough times by bugs in production
+I'm also exploring serverless architectures and edge computing. The idea of running code closer to users is pretty compelling.
+<br/>
+
+## Let's Build Something
+I'm always interested in working on projects that matter. Whether it's:
+- An open source tool that solves a real problem
+- A startup idea that needs a technical co-builder
+- Anything involving complex frontend challenges
+
+If you've got something interesting, I'd love to hear about it.
+
+<br/>
+
+## Things I Can Help With
+If you're stuck on something, feel free to reach out. I've spent a lot of time with:
+
+- Building apps with React.js
+- Making UIs actually feel good to use
+- RBAC with Dashboard and optimization
+- Getting React apps to perform well
+
+I don't claim to know everything, but I'm happy to share what I've learned.
+<br/>
+
+## Get In Touch
+
+The best way to reach me is probably [LinkedIn](https://linkedin.com/in/shubham-kumar-dev-js/) - my DMs are open. For anything more detailed, shoot me an [email](mailto:shubham.roy1996.sr@gmail.com).
+
+I try to respond to everyone, though it might take me a day or two if things are busy.
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubhamroy1996&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=shubhamroy1996&style=flat-square&color=7aa2f7&label=Profile+Views" alt="Profile Views">
+  
+  <br/>
+  <br/>
+  
+  *Building things, one commit at a time.* 🔨 ✨
+  
+</div>
